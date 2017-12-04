@@ -1,2 +1,2 @@
-# configs
-All my config files
+# Ray's Dotfiles
+All my config files - only for vim and tmux for now
